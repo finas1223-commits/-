@@ -1,0 +1,6 @@
+{
+  "name": "몸사랑 - 어르신·장애인 맞춤 홈트레이닝",
+  "description": "집에서 TV와 컴퓨터로 쉽게 따라 하는 어르신·장애인 맞춤 홈트레이닝 및 심리운동 플랫폼 몸사랑 사전 예약 및 무료 체험 신청",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
